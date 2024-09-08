@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Meson Wakerkwa </h1>
 <h3 align="center">A passionate frontend developer from Papua</h3>
 
-- 🔭 I’m currently working on [my dream](https://github.com/MesonWakerkwa)
+- 🔭 I currently working on [my dream](https://github.com/MesonWakerkwa)
 
 - 👯 I’m looking collaborate on [with the sacode community](http://www.sacode.web.id/)
 
