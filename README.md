@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my dream](https://github.com/MesonWakerkwa)
 
-- 👯 I’m looking to collaborate on [with the sacode community](http://www.sacode.web.id/)
+- 👯 I’m looking collaborate on [with the sacode community](http://www.sacode.web.id/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
